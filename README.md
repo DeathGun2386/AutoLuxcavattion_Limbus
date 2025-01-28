@@ -86,7 +86,7 @@ Run the AutoLuxcavation_Limbus.exe file.
 ### Mod Programmer
 
 - Lo Gundes(Death_Gun)
-- [R8'4ST](https://github.com/RaytFost)(co-author of the idea, actively helped with the code)
+- [R8'4ST](https://github.com/R8-4ST)(co-author of the idea, actively helped with the code)
   ###### p.s he has his own version of AutoLuxcavation, you can try it too.
 
 
@@ -194,7 +194,7 @@ which is unlikely to be banned.
 ### Программист мода
 
 - Lo Gundes(Death_Gun)
-- [R8'4ST](https://github.com/RaytFost)(соавтор идеи, активно помогал с кодом)
+- [R8'4ST](https://github.com/R8-4ST)(соавтор идеи, активно помогал с кодом)
   ###### p.s у него есть своя версия АвтоСветодобычи, можете её тоже попробовать
 
 
